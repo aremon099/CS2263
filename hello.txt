@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 my name is azizur Rahman 
 editing from laptop 
+=======
+my name is azizur Rahman Emon
+editing from github
+>>>>>>> 247bc505ae26efdbb59ed929cec6eae13451c191
